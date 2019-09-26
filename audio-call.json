@@ -28,6 +28,10 @@
           "audio": "https://github.com/masterprohd/data/raw/master/chat_video7.mp4",
           "cover": "https://raw.githubusercontent.com/masterprohd/data/master/s7.png",
           "name": "call_homework_naughty"
+        },{
+          "audio": "https://github.com/masterprohd/data/raw/master/chat_video8.mp4",
+          "cover": "https://raw.githubusercontent.com/masterprohd/data/master/s8.png",
+          "name": "call_homework_naughty"
         }
       ]
 }
