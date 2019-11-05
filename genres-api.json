@@ -1,7 +1,7 @@
 {
       "genres": [
        {
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Action.jpeg",
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/action.jpeg",
           "name": "Action"
         },{
           "image": "https://raw.githubusercontent.com/masterprohd/data/master/Adventure.jpeg",
@@ -25,7 +25,7 @@
           "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
           "name": "Josei"
         },{
-          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Magic.jpeg",
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Magic.jpg",
           "name": "Magic"
         },{
           "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
