@@ -1,0 +1,65 @@
+{
+      "genres": [
+       {
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Action.jpeg",
+          "name": "Action"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Adventure.jpeg",
+          "name": "Adventure"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Comedy.jpeg",
+          "name": "Comedy"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/drama.jpeg",
+          "name": "drama"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Fantasy.jpeg",
+          "name": "Fantasy"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Historical.jpeg",
+          "name": "Historical"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Horror.jpeg",
+          "name": "Horror"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
+          "name": "Josei"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Magic.jpeg",
+          "name": "Magic"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Josei.jpeg",
+          "name": "Josei"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Martial Arts.jpeg",
+          "name": "Martial Arts"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Mystery.jpeg",
+          "name": "Mystery"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Romance.jpeg",
+          "name": "Romance"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/School Life.jpeg",
+          "name": "School Life"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Shoujo.jpeg",
+          "name": "Shoujo"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/School Life.jpeg",
+          "name": "School Life"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Shounen.jpeg",
+          "name": "Shounen"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Super Power.jpeg",
+          "name": "Super Power"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Supernatural.jpeg",
+          "name": "Supernatural"
+        },{
+          "image": "https://raw.githubusercontent.com/masterprohd/data/master/Tragedy.jpeg",
+          "name": "Tragedy"
+        }
+      ]
+}
