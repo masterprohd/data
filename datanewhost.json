@@ -1,0 +1,4273 @@
+[{
+  "_id": {
+    "$oid": "5eafc12420e3325b82cd70bd"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " Horror",
+    " Mature",
+    " Psychological",
+    " Seinen",
+    " Supernatural",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "berserk",
+  "h": 87439392,
+  "i": "4e70ea0ec092255ef7004a28",
+  "im": "a0/a0d72bd4356ce4e06d5d3287816fdee0dc8fe5b23cd4cdaf9ecd5962.jpg",
+  "ld": "1587739294",
+  "s": 0,
+  "t": "Berserk",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc12a20e3325b82cd70be"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Shounen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "hajime-no-ippo",
+  "h": 61570939,
+  "i": "4e70ea14c092255ef7004be8",
+  "im": "6f/6f0b95cb7d04cf4a594e53bd043e4058c328e3d4e32708a45d9e73f4.jpg",
+  "ld": "1512018456",
+  "s": 1,
+  "t": "Hajime no Ippo",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc13120e3325b82cd70bf"
+  },
+  "c": [
+    "Adventure",
+    " Comedy",
+    " Drama",
+    " Mystery",
+    " Romance",
+    " School Life",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "detective-conan",
+  "h": 55663982,
+  "i": "4e70ea0cc092255ef70049ac",
+  "im": "11/11e3c18bc3441be8c04fecd4a314b9d3b8bce62a460ab3cfb85ef5fc.jpg",
+  "ld": "1561282887",
+  "s": 1,
+  "t": "Detective Conan",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc17420e3325b82cd70c0"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Fantasy",
+    " Horror",
+    " Mature",
+    " Mystery",
+    " Shounen",
+    " Supernatural",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shingeki-no-kyojin",
+  "h": 29680882,
+  "i": "4e70ea6ac092255ef7006a52",
+  "im": "e4/e4258fe3f23f923de39ae56d82449226cd2b6be40279e9acb7f8138e.png",
+  "ld": "1586259554",
+  "s": 1,
+  "t": "Shingeki no Kyojin",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc18520e3325b82cd70c1"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Sci-fi",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "dragon-ball",
+  "h": 29521807,
+  "i": "4e70ea03c092255ef7004734",
+  "im": "79/79ad7be2dca43fbb19576854a7f8675889c3944aa196cb94f2460d55.jpg",
+  "ld": "1542231988",
+  "s": 2,
+  "t": "Dragon Ball",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc19a20e3325b82cd70c2"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Shounen",
+    " Supernatural",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "d.gray-man",
+  "h": 28682576,
+  "i": "4e70ea05c092255ef700477b",
+  "im": "46/46ab3746d41821dfe297ede9660ae033d1cfd347cd02cb4f7379e304.jpg",
+  "ld": "1588103527",
+  "s": 1,
+  "t": "D.Gray-man",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc1ac20e3325b82cd70c3"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Fantasy",
+    " Martial Arts",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "the-god-of-high-school",
+  "h": 27613966,
+  "i": "4e70ea7cc092255ef7006fca",
+  "im": "4b/4bf5749cd116b54067d479df28073972568cb68c3bb584ec362b6977.png",
+  "ld": "1587118267",
+  "s": 1,
+  "t": "The God of High School",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc1bc20e3325b82cd70c4"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Historical",
+    " Martial Arts",
+    " Mature",
+    " Psychological",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "vagabond",
+  "h": 21750559,
+  "i": "4e70ea04c092255ef700475e",
+  "im": "99/9982ab1bab822353edb04f3b6ebd8b70499d8195634c0c606733ce27.jpg",
+  "ld": "1432501235",
+  "s": 0,
+  "t": "Vagabond",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc1cf20e3325b82cd70c5"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Historical",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gintama",
+  "h": 21061481,
+  "i": "4e70e9fcc092255ef700450c",
+  "im": "f0/f0ea391e67a11c27d9995f49f3137f2e9456da23a4f4a7df096ace39.png",
+  "ld": "1585296747",
+  "s": 1,
+  "t": "Gintama",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc1e020e3325b82cd70c6"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Fantasy",
+    " Sci-fi",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "toriko",
+  "h": 20897055,
+  "i": "4e70ea0cc092255ef7004966",
+  "im": "25/25a432c25167458e168506fb2c3c3b21b97d768b21284c270e3491e7.jpg",
+  "ld": "1479376218",
+  "s": 2,
+  "t": "Toriko",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc1f320e3325b82cd70c7"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Historical",
+    " Martial Arts",
+    " Mature",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "blade-of-the-immortal",
+  "h": 17595589,
+  "i": "4e70ea11c092255ef7004b13",
+  "im": "3d/3d19bf3a23414f809f5bfe38880abf969f1bd78869b38c6b3a9f3272.jpg",
+  "ld": "1377370804",
+  "s": 2,
+  "t": "Blade Of The Immortal",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc1fc20e3325b82cd70c8"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Martial Arts",
+    " Psychological",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "hunter-x-hunter",
+  "h": 17306045,
+  "i": "4e70ea02c092255ef70046e0",
+  "im": "df/dfa10afb26c40498e742a80653d23aa0d5ce96cd9c6b6e3f65d09507.jpg",
+  "ld": "1543014968",
+  "s": 1,
+  "t": "Hunter x Hunter",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc20f20e3325b82cd70c9"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Mystery",
+    " Psychological",
+    " Romance",
+    " School Life",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "code-breaker",
+  "h": 16931152,
+  "i": "4e70ea0ac092255ef70048f2",
+  "im": "c9/c9a1d236eff899e368edae7f624e8269802ada77d13254e17edb7bf4.jpg",
+  "ld": "1414203881",
+  "s": 2,
+  "t": "Code Breaker",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc24220e3325b82cd70ca"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Mystery",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tower-of-god",
+  "h": 16555847,
+  "i": "4e70ea03c092255ef70046e8",
+  "im": "91/91c24be91396eb90517951cbdd430c931644e7562942b47592fd7a1e.png",
+  "ld": "1587966641",
+  "s": 2,
+  "t": "Tower of God",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc25420e3325b82cd70cb"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Historical",
+    " Mature",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kingdom",
+  "h": 14460508,
+  "i": "4e70e9d5c092255ef7003b01",
+  "im": "95/95b3e1821b6cc29437915b01e4406903880af1b6feca009633ac6917.jpg",
+  "ld": "1588256763",
+  "s": 1,
+  "t": "Kingdom",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc26220e3325b82cd70cc"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "ao-no-exorcist",
+  "h": 14683248,
+  "i": "4e70ea03c092255ef700471c",
+  "im": "1f/1f20130c1dd0f600ed0c5c6cce71e7286626a9d58cc97471bd553ddb.jpg",
+  "ld": "1586439699",
+  "s": 1,
+  "t": "Ao no Exorcist",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc28220e3325b82cd70cd"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Historical",
+    " Mystery",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kuroshitsuji",
+  "h": 11902111,
+  "i": "4e70ea11c092255ef7004b30",
+  "im": "d5/d5b924c15e610f8b26d9e28272108214bc43fcbecab5064e454017c4.png",
+  "ld": "1587274597",
+  "s": 1,
+  "t": "Kuroshitsuji",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc2b220e3325b82cd70ce"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " School Life",
+    " Shounen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kuroko-no-basuke",
+  "h": 14785770,
+  "i": "4e70ea22c092255ef7004f01",
+  "im": "bd/bd45adb37951f7267fba847c475d9135559766cdd587f6d7dc1b067e.jpg",
+  "ld": "1409568109",
+  "s": 2,
+  "t": "Kuroko no Basuke",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc2c520e3325b82cd70cf"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Mystery",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "pandora-hearts",
+  "h": 13987081,
+  "i": "4e70ea10c092255ef7004ac4",
+  "im": "b0/b0fbc5c93bfd682f6e988587f1b67c54bca39b8ab8b7f12340eaa25f.jpg",
+  "ld": "1428802751",
+  "s": 2,
+  "t": "Pandora Hearts",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc2d120e3325b82cd70d0"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "initial-d",
+  "h": 12448667,
+  "i": "4e70ea0ec092255ef7004a26",
+  "im": "9b/9bdcc22b6de20f9f0cd53872ff285c33a6b905851737537ea98d7c7a.jpg",
+  "ld": "1420482453",
+  "s": 2,
+  "t": "Initial D",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc31220e3325b82cd70d1"
+  },
+  "c": [
+    "Comedy",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "junjou-karen-na-oretachi-da",
+  "h": 2210,
+  "i": "5bbfcbfb719a160335018475",
+  "im": "21/217b870609cebd3948ebb52ce5dbcf34fc70fad07083d2c354d2d4f5.jpg",
+  "ld": "1539372135",
+  "s": 2,
+  "t": "Junjou Karen na Oretachi da",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc33020e3325b82cd70d2"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "nanatsu-no-taizai",
+  "h": 11235745,
+  "i": "5099a865c092254a2000daf4",
+  "im": "a0/a02faf1f72781587d0a050a10ff240eed7fb41c5df08f81291e8774e.png",
+  "ld": "1585111097",
+  "s": 1,
+  "t": "Nanatsu no Taizai",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc34020e3325b82cd70d3"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Josei",
+    " Romance",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "nanatsuya-shinobu-no-housekibako",
+  "h": 182,
+  "i": "5c29528b719a16472087bee3",
+  "im": "2a/2a0cff13f276d26ef2b552f509d9897c48a7c61ce89c3baf72e06d85.jpg",
+  "ld": "1546239346",
+  "s": 0,
+  "t": "Nanatsuya: Shinobu no Housekibako",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc35920e3325b82cd70d4"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " School Life",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "boku-no-hero-academia",
+  "h": 8919675,
+  "i": "541aabc045b9ef49009d69b6",
+  "im": "22/22ad82d99042582b10c7293114cd199de406a5b662454553eff5015a.png",
+  "ld": "1587790474",
+  "s": 1,
+  "t": "Boku no Hero Academia",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc36420e3325b82cd70d5"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "vigilante-boku-no-hero-academia-illegals",
+  "h": 52182,
+  "i": "5bedfec6719a163457b94849",
+  "im": "f0/f09c7ac4969bad08b6e06f4465188a43a83dfd22ff28abdbe5943e5f.png",
+  "ld": "1580873899",
+  "s": 1,
+  "t": "Vigilante: Boku no Hero Academia Illegals",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc36e20e3325b82cd70d6"
+  },
+  "c": [
+    "Comedy",
+    " Fantasy",
+    " School Life",
+    " Sci-fi",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "boku-no-hero-academia-smash",
+  "h": 2314,
+  "i": "5bd8e631719a165117a28f67",
+  "im": "e6/e6929557d0e93aa74df04ea1c2cb060b457352b39e4e38391006b456.jpg",
+  "ld": "1543395941",
+  "s": 2,
+  "t": "Boku no Hero Academia Smash!!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc38420e3325b82cd70d7"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Doujinshi",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "boku-no-hero-true-hero",
+  "h": 3120,
+  "i": "5e552ef6719a164f9d48c464",
+  "im": "1d/1d1ef17e24ba7ac26dce52439631ddfa57ca4cf930c25f191a0b1dc8.jpg",
+  "ld": "1582645271",
+  "s": 1,
+  "t": "boku no hero true hero",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc3b320e3325b82cd70d8"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "avatar-the-last-airbender---the-rift",
+  "h": 5189498,
+  "i": "533dc75845b9ef8449ed05c5",
+  "im": "ef/ef3cb5b568a2dafa6f9019e47f883a7ddbe9b5c160791478f74c013a.jpg",
+  "ld": "1419171935",
+  "s": 2,
+  "t": "Avatar: The Last Airbender - The Rift",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc3c020e3325b82cd70d9"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "avatar-the-last-airbender---rebound",
+  "h": 263563,
+  "i": "518a183b45b9ef9df11ba10b",
+  "im": "78/78945dd133005721c5a4477fc71d883475291bf6c5bd4dc04dc3d92d.png",
+  "ld": "1368007442",
+  "s": 2,
+  "t": "Avatar: The Last Airbender - Rebound",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc3e320e3325b82cd70da"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Mystery",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "avatar-the-last-airbender---the-search",
+  "h": 47330473,
+  "i": "5153471345b9ef6da8c15b51",
+  "im": "1a/1a9ebf37bbf9b803ec2e991467104226a6ea9ea30bb2ff53efc143db.jpg",
+  "ld": "1384965092",
+  "s": 2,
+  "t": "Avatar: The Last Airbender - The Search",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc3f420e3325b82cd70db"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "avatar-the-last-airbender---the-lost-adventures",
+  "h": 7949817,
+  "i": "4fb97e9994cbc24462000005",
+  "im": "9e/9e2764b73b8b1c8a03e2e1c127cdc88dfc5c8221bb64a275d57e4659.jpg",
+  "ld": "1337845198",
+  "s": 2,
+  "t": "Avatar: The Last Airbender - The Lost Adventures",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc40220e3325b82cd70dc"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "avatar-the-last-airbender---the-promise",
+  "h": 44055733,
+  "i": "4fb7884d94cbc2213200001a",
+  "im": "e8/e8b04e6e7bc34114923a1d13eb4d0fdf9144e2f56eecba60ea0bfb2c.jpg",
+  "ld": "1357613008",
+  "s": 2,
+  "t": "Avatar: The Last Airbender - The Promise",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc41620e3325b82cd70dd"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Historical",
+    " Martial Arts",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gamaran",
+  "h": 7847441,
+  "i": "4e70ea03c092255ef7004712",
+  "im": "8e/8e7aa35655d54f2b72e333e57e7c9914c568c825c602e62b3a9b673a.jpg",
+  "ld": "1373402053",
+  "s": 2,
+  "t": "Gamaran",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc42920e3325b82cd70de"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "eyeshield-21",
+  "h": 7691817,
+  "i": "4e70ea03c092255ef7004702",
+  "im": "56/56818ccc883b722c9103c91153f7c357c5677e651032a806598a8b80.jpg",
+  "ld": "1541942292",
+  "s": 2,
+  "t": "Eyeshield 21",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc4a120e3325b82cd70df"
+  },
+  "c": [
+    "Drama",
+    " Mystery",
+    " Psychological",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "liar-game",
+  "h": 7498453,
+  "i": "4e70ea11c092255ef7004b42",
+  "im": "d1/d148dd5487beeba326cac0a296a235c848fafa5a52945a2c2bfab0b2.jpg",
+  "ld": "1422639382",
+  "s": 2,
+  "t": "Liar Game",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc4c520e3325b82cd70e0"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shaman-king",
+  "h": 7259052,
+  "i": "4e70e9e6c092255ef7003fa9",
+  "im": "a3/a30723fa422ac18c5a6ed38132c1a5c3559a1161259f3d31d816c336.jpg",
+  "ld": "1414300532",
+  "s": 2,
+  "t": "Shaman King",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc4fb20e3325b82cd70e1"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "fullmetal-alchemist",
+  "h": 6721061,
+  "i": "4e70ea06c092255ef700479d",
+  "im": "66/669f67a15e90f473580fcd232880a46268c6cd2a846d1bc41bc1a9cc.jpg",
+  "ld": "1343248766",
+  "s": 2,
+  "t": "Fullmetal Alchemist",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc51120e3325b82cd70e2"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Fantasy",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "zatch-bell",
+  "h": 7146512,
+  "i": "4e70e91ac092255ef70016b8",
+  "im": "8f/8f2893040f42377fe5690b8b27281805424cf2165cc0e8bfc0eae571.jpg",
+  "ld": "1378117552",
+  "s": 2,
+  "t": "Zatch Bell",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc53120e3325b82cd70e3"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Fantasy",
+    " School Life",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "nurarihyon-no-mago",
+  "h": 6681918,
+  "i": "4e70ea06c092255ef70047a7",
+  "im": "d7/d7b3951da818897fe1a7fc9db322f3c635bab0493023133734ac9059.jpg",
+  "ld": "1414274757",
+  "s": 2,
+  "t": "Nurarihyon no Mago",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc54f20e3325b82cd70e4"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "black-clover",
+  "h": 6190835,
+  "i": "55118c3c719a16749be4eb5f",
+  "im": "b4/b420147abfc422a88926c386d826895e336382a5cf42688c9669ac72.jpg",
+  "ld": "1587757496",
+  "s": 1,
+  "t": "Black Clover",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc56920e3325b82cd70e5"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Mature",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tough",
+  "h": 6154728,
+  "i": "4e70ea6ac092255ef7006a56",
+  "im": "af/af71738ce935bc3c9cfd1dbd4ae81126fcf1f7104be6fa841e9e1823.jpg",
+  "ld": "1477568265",
+  "s": 2,
+  "t": "Tough",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc58020e3325b82cd70e6"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Mature",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "koko-tekken-den-tough",
+  "h": 1687670,
+  "i": "4e70e9cbc092255ef7003976",
+  "im": "0c/0c6541d851706018cddf88c53fd8fe353f735a8c375061d709d62a26.jpg",
+  "ld": "1400335854",
+  "s": 2,
+  "t": "Koko Tekken-den TOUGH",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc59520e3325b82cd70e7"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " School Life",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "the-gamer",
+  "h": 5947743,
+  "i": "522e4b1d45b9ef7927d18ba4",
+  "im": "54/5416a5cc62c7eb2a967897697bf7c6efc4479fd525101b78dce0bdba.png",
+  "ld": "1588307058",
+  "s": 2,
+  "t": "The Gamer",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc5ae20e3325b82cd70e8"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Harem",
+    " Romance",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tales-of-demons-and-gods",
+  "h": 5195424,
+  "i": "55db9a91719a165552ac6686",
+  "im": "a2/a2a0004bc6f6f3ae7241bcee47485cef568ed5049a1ca5ffda555102.jpg",
+  "ld": "1569210304",
+  "s": 1,
+  "t": "Tales of Demons and Gods",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc5ca20e3325b82cd70e9"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Romance",
+    " School Life",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kekkaishi",
+  "h": 5084364,
+  "i": "4e70ea03c092255ef7004718",
+  "im": "34/341f1bff6f1b2f5c60ade5b1c946aa5dda504841ed5802b2d2efe3f4.jpg",
+  "ld": "1541829079",
+  "s": 2,
+  "t": "Kekkaishi",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc5d820e3325b82cd70ea"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kekkai-sensen",
+  "h": 21216,
+  "i": "5c00737c719a163a8d395a90",
+  "im": "37/37da26d6ae26543c28f2b3b08d79f5d710aabe1ec34c53a0dccf72f4.jpg",
+  "ld": "1559247935",
+  "s": 2,
+  "t": "Kekkai Sensen",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc5fa20e3325b82cd70eb"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " Historical",
+    " Martial Arts",
+    " Seinen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "feng-shen-ji",
+  "h": 4951814,
+  "i": "4f42eb6e94cbc27105000014",
+  "im": "db/db765abf8a5afca1f30962d90029766a170416b87f19ecc5daa3a1f4.jpg",
+  "ld": "1460316023",
+  "s": 2,
+  "t": "Feng Shen Ji",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc5ff20e3325b82cd70ec"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " Historical",
+    " Martial Arts",
+    " Seinen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "feng-shen-ji-ii",
+  "h": 322144,
+  "i": "521e578045b9efc819f90d80",
+  "im": "12/12f941fe6376c820071983f0496c0cb9f6850e1709745c30a8f0218d.jpg",
+  "ld": "1479436414",
+  "s": 2,
+  "t": "Feng Shen Ji II",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc63820e3325b82cd70ed"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Josei",
+    " Mystery",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "07-ghost",
+  "h": 4353503,
+  "i": "4e70ea1bc092255ef7004ce4",
+  "im": "01/011bc93ce955dd4c27c7fec4342c371486ef1b85940959ae82431c4d.png",
+  "ld": "1462640418",
+  "s": 2,
+  "t": "07-Ghost",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc64a20e3325b82cd70ee"
+  },
+  "c": [
+    "Comedy",
+    " Slice of Life",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "library-ghost",
+  "h": 1976,
+  "i": "5b8f0421719a16670d53879a",
+  "im": "76/76b912f85bc420f79710e8ceb612ac284c7a83489ec706f84c1c6416.jpg",
+  "ld": "1536191490",
+  "s": 2,
+  "t": "Library Ghost",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc65f20e3325b82cd70ef"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Mature",
+    " Mystery",
+    " Psychological",
+    " Sci-fi",
+    " Seinen",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "ghost-in-the-shell-arise",
+  "h": 884,
+  "i": "5bf1f2c3719a168aa30a8508",
+  "im": "f0/f016bfc62f2b53ddc262129e5e433ed5ed890417e6b0e9651b4caaaa.jpg",
+  "ld": "1543527890",
+  "s": 2,
+  "t": "Ghost in the Shell ARISE",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc67020e3325b82cd70f0"
+  },
+  "c": [
+    "Adventure",
+    " Comedy",
+    " Drama",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "yu-gi-oh",
+  "h": 4279890,
+  "i": "4e70ea06c092255ef70047af",
+  "im": "d9/d9ce088941cb8fbe3a855e6cc56faec5f57a23da1247ce8a79655827.jpg",
+  "ld": "1284743465",
+  "s": 2,
+  "t": "Yu-Gi-Oh",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc67f20e3325b82cd70f1"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Mature",
+    " Psychological",
+    " Seinen",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shamo",
+  "h": 4135118,
+  "i": "4e70ea0cc092255ef700496e",
+  "im": "d4/d44243b0ea4964dee94bf2bd662028912174601970e595bfd0dbfed5.jpg",
+  "ld": "1479466533",
+  "s": 2,
+  "t": "Shamo",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc68e20e3325b82cd70f2"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Ecchi",
+    " School Life",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gto",
+  "h": 4029713,
+  "i": "4e70e9fdc092255ef700454c",
+  "im": "0e/0e950c20a7c74d8375c979e33f1bb35c3ee12b2793f23474efd47d8c.jpg",
+  "ld": "1541807676",
+  "s": 2,
+  "t": "GTO",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc6a520e3325b82cd70f3"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Ecchi",
+    " School Life",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gto---shonan-14-days",
+  "h": 715438,
+  "i": "4e70ea0fc092255ef7004a52",
+  "im": "53/537f53ec34e418cb06f9365f2fb6be5cfbcdcbbfd084636af1941149.jpg",
+  "ld": "1406583650",
+  "s": 2,
+  "t": "GTO - Shonan 14 Days",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc6b620e3325b82cd70f4"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Ecchi",
+    " School Life",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gto---paradise-lost",
+  "h": 293913,
+  "i": "54af147a45b9ef8a548f1ec8",
+  "im": "ee/ee9fe5112aed167a5307b0667e6c3c90d54da6960d25ecede1d8ed3d.jpg",
+  "ld": "1559215538",
+  "s": 1,
+  "t": "GTO - Paradise Lost",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc6d720e3325b82cd70f5"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Martial Arts",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "yu-yu-hakusho",
+  "h": 3923358,
+  "i": "4e70ea0ac092255ef70048e8",
+  "im": "0f/0fb853c88406c6cc3c0ed1269d8d64bec9a3f4c619d58546c3139268.jpg",
+  "ld": "1542022251",
+  "s": 2,
+  "t": "Yu Yu Hakusho",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc6f120e3325b82cd70f6"
+  },
+  "c": [
+    "Comedy",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "diamond-no-ace",
+  "h": 3770451,
+  "i": "4e70ea0ac092255ef70048de",
+  "im": "0e/0e424f708608f8be0950acda0d06b95e11154b171511824448835f52.jpg",
+  "ld": "1585230598",
+  "s": 2,
+  "t": "Diamond no Ace",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc71020e3325b82cd70f7"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Mature",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "hanma-baki",
+  "h": 3894752,
+  "i": "4e70ea23c092255ef7004f2b",
+  "im": "98/9845e9565945e7c9ffd2534d3fec4e08d1bd2dce0a2cc0dfb42b2670.jpg",
+  "ld": "1354420579",
+  "s": 2,
+  "t": "Hanma Baki",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc72420e3325b82cd70f8"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Romance",
+    " School Life",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "psyren",
+  "h": 3408713,
+  "i": "4e70ea12c092255ef7004b7c",
+  "im": "68/68186ebfca04cea1394dcc55a68f5ebde58aea96925ee1ddd5516cae.jpg",
+  "ld": "1414293269",
+  "s": 2,
+  "t": "Psyren",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc73e20e3325b82cd70f9"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Historical",
+    " Mature",
+    " Psychological",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "vinland-saga",
+  "h": 3707195,
+  "i": "4e70ea03c092255ef700470e",
+  "im": "49/4992cf81b0f3ce055a1be9f128ff8d0f015dd5cd58aa3c448070c6ae.png",
+  "ld": "1587765116",
+  "s": 1,
+  "t": "Vinland Saga",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc75120e3325b82cd70fa"
+  },
+  "c": [
+    "Comedy",
+    " Shounen",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "yotsuba",
+  "h": 3310282,
+  "i": "4e70e926c092255ef7001998",
+  "im": "08/0855babe2efeeeda9cf8d35a3f4988f60316042367bd74b9b45ce625.png",
+  "ld": "1482958825",
+  "s": 1,
+  "t": "Yotsuba",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc78b20e3325b82cd70fb"
+  },
+  "c": [
+    "Fantasy",
+    " Adventure",
+    " Action"
+  ],
+  "status": true,
+  "report": false,
+  "a": "dragon-quest",
+  "h": 3293661,
+  "i": "4e70e9ecc092255ef700415a",
+  "im": "f7/f7e5296a02129672b1d8c8ce33dcd41f8fa8a66cff3e88c1f9b961ba.jpg",
+  "ld": "1275542373",
+  "s": 1,
+  "t": "Dragon Quest",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc79420e3325b82cd70fc"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "dragon-quest-the-adventure-of-dai",
+  "h": 2589781,
+  "i": "4e70e9ebc092255ef70040e0",
+  "im": "b7/b78b853980bad0e17fa9139a9a58f4119d00188fb94e805b35b7768e.jpg",
+  "ld": "1541946324",
+  "s": 2,
+  "t": "Dragon Quest: The Adventure of Dai",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc7a320e3325b82cd70fd"
+  },
+  "c": [
+    "Adventure",
+    " Fantasy",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "dragon-quest-retsuden---roto-no-monshou",
+  "h": 17004,
+  "i": "5bd7951d719a164e65cbe5a0",
+  "im": "c2/c2cb1bc990469a48bf2a16d937d5c502102de128a8a5d161ab213694.png",
+  "ld": "1541939500",
+  "s": 2,
+  "t": "Dragon Quest Retsuden - Roto no Monshou",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc7ba20e3325b82cd70fe"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " School Life",
+    " Shounen",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "sket-dance",
+  "h": 3236582,
+  "i": "4e70ea00c092255ef700461a",
+  "im": "dd/dd99dfa3195e3b89a41d20738632b26e851d2616eb6f566802616e74.jpg",
+  "ld": "1427084217",
+  "s": 2,
+  "t": "Sket Dance",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc7c620e3325b82cd70ff"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "new-prince-of-tennis",
+  "h": 3185833,
+  "i": "4e70ea0bc092255ef700491d",
+  "im": "e1/e1a7caaea7d39933b018cb22f847ee7a8572741b97c643223e62124e.jpg",
+  "ld": "1554575914",
+  "s": 1,
+  "t": "New Prince of Tennis",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc7e620e3325b82cd7100"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Mystery",
+    " School Life",
+    " Sci-fi",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "ansatsu-kyoushitsu",
+  "h": 3166290,
+  "i": "4ff30370c092252e7f00002f",
+  "im": "ec/ec4c870e4b6f25cf69e7a7ea764065d7232ac83972116f7a0572282e.png",
+  "ld": "1461547833",
+  "s": 2,
+  "t": "Ansatsu Kyoushitsu",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc7ff20e3325b82cd7101"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " Romance",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "combat-continent",
+  "h": 3107399,
+  "i": "5377396045b9ef059cd66d97",
+  "im": "7a/7a6060e56a60fec72c9f51a4af220d07c7eab772e1ed308c23cfb32a.jpg",
+  "ld": "1578627626",
+  "s": 2,
+  "t": "Combat Continent",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc81720e3325b82cd7102"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Mature",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "fist-of-the-north-star",
+  "h": 3144602,
+  "i": "4e70ea19c092255ef7004c8c",
+  "im": "58/58ec0eae997e89e049ebf65932bef65a6d577ad2da949a002d6d9246.png",
+  "ld": "1559203571",
+  "s": 2,
+  "t": "Fist Of The North Star",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc82e20e3325b82cd7103"
+  },
+  "c": [
+    "Drama",
+    " Mature",
+    " Psychological",
+    " Seinen",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "team-medical-dragon",
+  "h": 2957429,
+  "i": "4e70ea0dc092255ef70049ba",
+  "im": "42/42ff9187621216e71fe50871ae3011931dbfc898061c84e8aaf470c0.jpg",
+  "ld": "1547827635",
+  "s": 2,
+  "t": "Team Medical Dragon",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc84a20e3325b82cd7104"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Historical",
+    " Mature",
+    " Mystery",
+    " Seinen",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "jojos-bizarre-adventure",
+  "h": 2664285,
+  "i": "4e70ea06c092255ef70047d1",
+  "im": "1c/1c8e57e4714d1e299f8edaa5cfb95c116b37d9a822d911943d41a4fc.png",
+  "ld": "1360440882",
+  "s": 1,
+  "t": "Jojos Bizarre Adventure",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc86120e3325b82cd7105"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "dragon-quest-the-adventure-of-dai",
+  "h": 2589781,
+  "i": "4e70e9ebc092255ef70040e0",
+  "im": "b7/b78b853980bad0e17fa9139a9a58f4119d00188fb94e805b35b7768e.jpg",
+  "ld": "1541946324",
+  "s": 2,
+  "t": "Dragon Quest: The Adventure of Dai",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc87e20e3325b82cd7106"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " School Life",
+    " Shounen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "haikyuu",
+  "h": 2657489,
+  "i": "521e8ebc45b9effb1e5341c9",
+  "im": "91/91e6c2cee6c6c0983a41e148f58a1411261aa6bc86d28aedb15df203.jpg",
+  "ld": "1587924665",
+  "s": 1,
+  "t": "Haikyuu!!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc8b120e3325b82cd7107"
+  },
+  "c": [
+    "Historical",
+    " Josei",
+    " Romance",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "daddy-long-legs-katsuta-bun",
+  "h": 884,
+  "i": "5c5f5f82719a1646ccda8f51",
+  "im": "e8/e8d27a5c71cc518035b52edb60efce27327892fecbe99526284ef80f.jpg",
+  "ld": "1549775607",
+  "s": 2,
+  "t": "Daddy Long Legs (Katsuta Bun)",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc8c520e3325b82cd7108"
+  },
+  "c": [
+    "Drama",
+    " Romance",
+    " Shoujo",
+    " Slice of Life",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "daddy-long-legs",
+  "h": 1378,
+  "i": "5be8b87b719a1646d2d58f72",
+  "im": "37/37e2efb55c6212ff79ba4e9e154760e36d93aa794d2afadf7badae66.jpg",
+  "ld": "1542074860",
+  "s": 2,
+  "t": "Daddy Long Legs",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc91c20e3325b82cd7109"
+  },
+  "c": [
+    "Drama",
+    " Fantasy",
+    " Mystery",
+    " Romance"
+  ],
+  "status": true,
+  "report": false,
+  "a": "mima-of-the-forest",
+  "h": 650,
+  "i": "5c37d2f4719a168075f9c239",
+  "im": "dd/dd8de6c57bacf92e83c13857592d5398328cf41da5cb74e1158a2aa2.jpg",
+  "ld": "1547297008",
+  "s": 2,
+  "t": "Mima of the Forest",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc95920e3325b82cd710a"
+  },
+  "c": [
+    "Comedy",
+    " School Life",
+    " Slice of Life",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "school-in-the-wild",
+  "h": 520,
+  "i": "5c2fe917719a167fa46dd30a",
+  "im": "81/81eda9c3d7c9ed6096b8ee6e42875801348e50dd6d8c72af8d01ce52.png",
+  "ld": "1546765022",
+  "s": 2,
+  "t": "School in the Wild",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc96e20e3325b82cd710b"
+  },
+  "c": [
+    "Comedy",
+    " Ecchi",
+    " Fantasy",
+    " Harem",
+    " Romance",
+    " School Life",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shinwa-ponchi",
+  "h": 364,
+  "i": "5c3923c1719a163105721eb3",
+  "im": "e7/e71f765a429ac3af425fe71276def7802e1f4dc918dbfb3fd8ff4037.png",
+  "ld": "1547356009",
+  "s": 2,
+  "t": "Shinwa Ponchi",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc98320e3325b82cd710c"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " School Life",
+    " Shounen"
+  ],
+  "status": true,
+  "report": true,
+  "a": "a-bout",
+  "h": 9126,
+  "i": "5bc906a2719a162d70161bc1",
+  "im": "41/41921ef2e758b7e0123b4e33ac9b5f3d8df1e53ed84e750be457dd40.jpg",
+  "ld": "1588052407",
+  "s": 2,
+  "t": "A-bout!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc9aa20e3325b82cd710d"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Seinen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "revival-man",
+  "h": 51012,
+  "i": "5bff2193719a16336e27e12e",
+  "im": "0d/0dff7a7772e89af82bde21bc82f71613d57fd20c83abd2e67689471e.jpg",
+  "ld": "1587100322",
+  "s": 1,
+  "t": "Revival Man",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc9c420e3325b82cd710e"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Mature",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "roppongi-black-cross",
+  "h": 2678,
+  "i": "5c2aa3b4719a16194e6896eb",
+  "im": "de/de5455ee23f35683a319fd5f1ed90caea5e5e31125b6683e4341e729.jpg",
+  "ld": "1546610066",
+  "s": 2,
+  "t": "Roppongi Black Cross",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafc9e920e3325b82cd710f"
+  },
+  "c": [
+    "Action",
+    " Mature",
+    " Psychological",
+    " School Life",
+    " Sci-fi",
+    " Seinen",
+    " Supernatural",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "narutaru",
+  "h": 4186,
+  "i": "5c1ad2e6719a1653e218ee3d",
+  "im": "01/01fd95250c5d0e36ca701572f20fe1da693c04a7e12ad3e936eef122.jpg",
+  "ld": "1547915646",
+  "s": 2,
+  "t": "Narutaru",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafca7620e3325b82cd7110"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Horror",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "devil-may-cry-3",
+  "h": 1170,
+  "i": "5beb5b23719a1659032c32ca",
+  "im": "d2/d2f956ab2a55a712056eb467e770b4402a8ef24a1163c832e3f2eb3a.jpg",
+  "ld": "1559193930",
+  "s": 1,
+  "t": "Devil May Cry 3",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafca8220e3325b82cd7111"
+  },
+  "c": [
+    "Action",
+    " Fantasy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "devil-may-cry",
+  "h": 233898,
+  "i": "4e70ea07c092255ef7004807",
+  "im": "c5/c504dbe501c6527ae569baaeeb913cb1e9cf38a604fdf31d63bb3873.jpg",
+  "ld": "1541935535",
+  "s": 1,
+  "t": "Devil May Cry",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcaa220e3325b82cd7112"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Sci-fi",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "sensei-no-bulge",
+  "h": 1820,
+  "i": "5c2803c8719a16352fa6fc5c",
+  "im": "55/55c82fa31a77811de1d343da05d8d4f8d07d088e8a44e6775bc5c801.png",
+  "ld": "1546200032",
+  "s": 2,
+  "t": "Sensei no Bulge",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcac720e3325b82cd7113"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Mystery",
+    " Sci-fi",
+    " Shoujo",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "darker-than-black",
+  "h": 13546,
+  "i": "5bbd296b719a16706fe54dd1",
+  "im": "a9/a9082ea399bbd527c00359dc608ae91306ff503b3ba23add4e245045.jpg",
+  "ld": "1539173984",
+  "s": 2,
+  "t": "Darker than BLACK",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcb4420e3325b82cd7114"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Historical",
+    " Martial Arts",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shinsengumi-jingishou-asagi",
+  "h": 182,
+  "i": "5c3923a8719a163105721ea5",
+  "im": "ed/ed7ecf71aa37b832cbd0226a1135977ea0bdd13bcb85a2b65034d932.png",
+  "ld": "1547410368",
+  "s": 2,
+  "t": "Shinsengumi Jingishou Asagi",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcb6d20e3325b82cd7115"
+  },
+  "c": [
+    "Drama",
+    " Ecchi",
+    " Harem",
+    " Mystery",
+    " Romance",
+    " School Life",
+    " Seinen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "ore-ga-doutei-wo-sutetara-shinu-ken-ni-tsuite",
+  "h": 1040,
+  "i": "5c1c230d719a167af40f315e",
+  "im": "67/67c9c32cfcdc92cfe014bfc14fd2468f8157fbd03ad69c6b70ebb8fd.jpg",
+  "ld": "1545739935",
+  "s": 2,
+  "t": "Ore ga Doutei wo Sutetara Shinu Ken ni Tsuite",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcb8820e3325b82cd7116"
+  },
+  "c": [
+    "Drama",
+    " Romance",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "datte-oishii-no-ga-warui",
+  "h": 676,
+  "i": "5bea099f719a167379996bf3",
+  "im": "d4/d4095ba01e7c8d29322fe1e6c47f1fe43a81170944a330eb86f279a8.png",
+  "ld": "1543218333",
+  "s": 2,
+  "t": "Datte, Oishii no ga Warui.",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcba120e3325b82cd7117"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " Historical",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kimetsu-no-yaiba",
+  "h": 1764152,
+  "i": "5bcf9e44719a16613ec442fc",
+  "im": "6c/6c96c65052c43f1abe68f6657a6a919da98eeb9cb0075d9cdcff4f97.png",
+  "ld": "1587899304",
+  "s": 1,
+  "t": "Kimetsu no Yaiba",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcbb220e3325b82cd7118"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Gender Bender",
+    " Historical",
+    " Mature",
+    " Seinen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shuto-heru",
+  "h": 1482,
+  "i": "5c425e2e719a160346cc8b2b",
+  "im": "4a/4ad4bcef24f5b663c519034379e6033d3f4518e72cf6f226c1ec63a6.png",
+  "ld": "1559392640",
+  "s": 2,
+  "t": "Shuto Heru",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcbd020e3325b82cd7119"
+  },
+  "c": [
+    "Drama",
+    " Fantasy",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "restraining-order-of-ant",
+  "h": 442,
+  "i": "5bfdd06f719a162b3c1965fd",
+  "im": "09/098b8230a0cfe86640e1521c9c536074fa492a12bd3be86ee49dd8fb.jpg",
+  "ld": "1543400924",
+  "s": 2,
+  "t": "Restraining order of Ant",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcbea20e3325b82cd711a"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Mystery",
+    " Sci-fi",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shin-megami-tensei-iv---demonic-gene",
+  "h": 2964,
+  "i": "5c352f3a719a16283a476010",
+  "im": "25/25755a0e7cdcbeb006462b09d80f9f641825cb094e103a82325d25e6.jpg",
+  "ld": "1547300195",
+  "s": 2,
+  "t": "Shin Megami Tensei IV - Demonic Gene",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcc1220e3325b82cd711b"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Fantasy",
+    " Romance",
+    " Sci-fi"
+  ],
+  "status": true,
+  "report": false,
+  "a": "star-wars-lost-stars",
+  "h": 23010,
+  "i": "5bff2222719a16336e27e2a6",
+  "im": "c2/c2ebd527e6f0b72206fbf3d5a1a0b329ff047466df12dc68d467f753.jpg",
+  "ld": "1543726105",
+  "s": 1,
+  "t": "STAR WARS: Lost Stars",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcc3420e3325b82cd711c"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Martial Arts",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "peerless-dad",
+  "h": 106340,
+  "i": "5b68c909719a16401d6b958b",
+  "im": "53/53895450c1731ec49256487e5943ce38fcc5319510b4e6a1a3a51427.jpg",
+  "ld": "1588050570",
+  "s": 1,
+  "t": "Peerless Dad",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcc5620e3325b82cd711d"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Fantasy",
+    " School Life",
+    " Shounen",
+    " Slice of Life",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "layers-anarchy",
+  "h": 1456,
+  "i": "5c085d5a719a1607b59af4f2",
+  "im": "d4/d434360623c9ed41fc726843faf23779ac54c04540c1085418933d0c.png",
+  "ld": "1544104984",
+  "s": 2,
+  "t": "Layers Anarchy",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcc7420e3325b82cd711e"
+  },
+  "c": [
+    "Action",
+    " Fantasy",
+    " Martial Arts",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "chronicles-of-heavenly-demon",
+  "h": 38818,
+  "i": "5c4f8d2b719a16185a907f06",
+  "im": "00/004f0c92d93d97fd394ab474e10597060131ceb39a656ef934d50943.png",
+  "ld": "1587678513",
+  "s": 1,
+  "t": "Chronicles of Heavenly Demon",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcc8320e3325b82cd711f"
+  },
+  "c": [
+    "Drama",
+    " Fantasy",
+    " Historical",
+    " Horror",
+    " Mystery",
+    " Romance",
+    " Shoujo",
+    " Supernatural",
+    " Tragedy"
+  ],
+  "status": true,
+  "report": false,
+  "a": "chronicles-of-the-grim-peddler",
+  "h": 3042,
+  "i": "5bbd2921719a16706fe54d1d",
+  "im": "e0/e0c784cd4eb7b3cd9fbe2ac1f2324ec155bfa8039866fc7e0dad89aa.png",
+  "ld": "1587899338",
+  "s": 2,
+  "t": "Chronicles of the Grim Peddler",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcc9c20e3325b82cd7120"
+  },
+  "c": [
+    "Adventure",
+    " Drama",
+    " Fantasy",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "beyond-the-beyond",
+  "h": 572,
+  "i": "5be6151a719a16346d61fd7a",
+  "im": "a6/a64624fe556e9cadbb3de519301491a7031f47b25a8a84ebdf5ac754.jpg",
+  "ld": "1543200863",
+  "s": 2,
+  "t": "Beyond the Beyond",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafccb520e3325b82cd7121"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Martial Arts",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "juushin-enbu",
+  "h": 1508,
+  "i": "5bfdd137719a162b3c1966aa",
+  "im": "ef/ef7fd9a0529eeeb95b8f6fd2f0dc1d51d6850113f4dcdff486a1ee9d.jpg",
+  "ld": "1543390361",
+  "s": 2,
+  "t": "Juushin Enbu",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafccf020e3325b82cd7122"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Ecchi",
+    " Fantasy",
+    " Harem",
+    " Romance",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "mowang-yu-yongzhe-yu-sheng-jian-shendian",
+  "h": 1274,
+  "i": "5bfb2e19719a162c595450bb",
+  "im": "77/7702d9349a910d4823588e84892f7839d5b9f2493f230e26bdc7e5a1.png",
+  "ld": "1543322878",
+  "s": 1,
+  "t": "Mowang Yu Yongzhe Yu Sheng Jian Shendian",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcd0d20e3325b82cd7123"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "fury",
+  "h": 57018,
+  "i": "5bef501f719a1646bd0b80c9",
+  "im": "e8/e8a48f139f264005401bdb90b43e790da75166b5f66f7d24c39f457d.jpg",
+  "ld": "1565268615",
+  "s": 2,
+  "t": "Fury",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcd2320e3325b82cd7124"
+  },
+  "c": [
+    "Fantasy",
+    " Mystery",
+    " Sci-fi",
+    " Shounen",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "timeline",
+  "h": 1118,
+  "i": "5c6f3132719a1679b56df49e",
+  "im": "ea/ea8e678ddd2df28a03e7310c5ea3423d1bdd3004aa645e8332e8a300.png",
+  "ld": "1550808932",
+  "s": 2,
+  "t": "Timeline",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcd3e20e3325b82cd7125"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Fantasy",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "smash-bomber",
+  "h": 546,
+  "i": "5c45014c719a1677f69b5479",
+  "im": "c2/c2fa11c6af442ef26107bc608cafe03f62c608bca2e554b05cba979c.jpg",
+  "ld": "1548101157",
+  "s": 2,
+  "t": "Smash Bomber",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcd5f20e3325b82cd7126"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Fantasy",
+    " Historical",
+    " Martial Arts",
+    " Romance",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "ryuuroden",
+  "h": 1703512,
+  "i": "4e70ea0ec092255ef7004a1a",
+  "im": "e9/e901529eb6580eccd45ac63ebf2d25aa9321afd638007d956f1d39a5.jpg",
+  "ld": "1440217055",
+  "s": 2,
+  "t": "Ryuuroden",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcd7520e3325b82cd7127"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Ecchi",
+    " Romance",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "city-hunter",
+  "h": 1688992,
+  "i": "4e70ea04c092255ef700473c",
+  "im": "f7/f797deb95acf6eb6a5bd51f45d5bf92f0963a773297bdf8977372528.jpg",
+  "ld": "1330501645",
+  "s": 2,
+  "t": "City Hunter",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcda320e3325b82cd7128"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Fantasy",
+    " Psychological",
+    " Romance",
+    " School Life",
+    " Shounen",
+    " Slice of Life",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "dice-the-cube-that-changes-everything",
+  "h": 1623362,
+  "i": "521e577945b9efc819f90d70",
+  "im": "dc/dc2c1042ca33179333487b1d9f2ed61aa994b883b7418b9947a53b1f.png",
+  "ld": "1587884176",
+  "s": 2,
+  "t": "DICE: The Cube that Changes Everything",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcdba20e3325b82cd7129"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Psychological",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "holyland",
+  "h": 1599662,
+  "i": "4e70e9f1c092255ef70042d2",
+  "im": "66/66740831ae75bafc567665ae1f11e3424c83fea812c18b5a456e6075.jpg",
+  "ld": "1337330627",
+  "s": 2,
+  "t": "Holyland",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcdd320e3325b82cd712a"
+  },
+  "c": [
+    "Adventure",
+    " Comedy",
+    " Fantasy",
+    " Sci-fi"
+  ],
+  "status": true,
+  "report": false,
+  "a": "daichohen-doraemon",
+  "h": 1508267,
+  "i": "4e70e91fc092255ef700179a",
+  "im": "38/3880707ef360a2949da906c11bf9b18a7544f43341a6732f247ff9eb.jpg",
+  "ld": "1479434146",
+  "s": 2,
+  "t": "Daichohen Doraemon",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcddb20e3325b82cd712b"
+  },
+  "c": [
+    "Adventure",
+    " Comedy",
+    " Fantasy",
+    " Sci-fi"
+  ],
+  "status": true,
+  "report": false,
+  "a": "daichohen-doraemon",
+  "h": 1508267,
+  "i": "4e70e91fc092255ef700179a",
+  "im": "38/3880707ef360a2949da906c11bf9b18a7544f43341a6732f247ff9eb.jpg",
+  "ld": "1479434146",
+  "s": 2,
+  "t": "Daichohen Doraemon",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcdee20e3325b82cd712c"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Mature",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "baki---son-of-ogre",
+  "h": 1507387,
+  "i": "5218aec145b9ef8b837316f9",
+  "im": "48/48cf6d42d8da575cc1584ebaab816fa40d37f33a6bb296e329c8b044.jpg",
+  "ld": "1377369535",
+  "s": 2,
+  "t": "Baki - Son Of Ogre",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafce0220e3325b82cd712d"
+  },
+  "c": [
+    "Drama",
+    " Fantasy",
+    " Mature",
+    " Psychological",
+    " Romance",
+    " School Life",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "beastars",
+  "h": 1315496,
+  "i": "595b436a719a1671165b2ba2",
+  "im": "3f/3f218c8ce1e40c29e5e23c88a7b992ff211ee613bf42d8f5bf6aeb6b.jpg",
+  "ld": "1555086026",
+  "s": 1,
+  "t": "Beastars",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafce3820e3325b82cd712e"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " School Life",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "veritas",
+  "h": 1270828,
+  "i": "4e70ea03c092255ef70046ec",
+  "im": "5d/5d105b4a8b672aaf1f34fc80410ca41b250d90c8e8193ba2552866e5.png",
+  "ld": "1542011383",
+  "s": 2,
+  "t": "Veritas",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafce5020e3325b82cd712f"
+  },
+  "c": [
+    "Drama",
+    " Psychological",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "real",
+  "h": 1253541,
+  "i": "4e70e9adc092255ef700329e",
+  "im": "78/78812d10d90205567eea541c4bdd001ed58d2613206e23449c90ef44.png",
+  "ld": "1578384858",
+  "s": 1,
+  "t": "Real",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafce6b20e3325b82cd7130"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Sci-fi",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "project-arms",
+  "h": 1268744,
+  "i": "4e70ea0ec092255ef7004a3c",
+  "im": "c1/c1e3ea166ed338d2449dfa33a5d5b8eaa11adc763f6991ee50de7e09.jpg",
+  "ld": "1343271414",
+  "s": 2,
+  "t": "Project ARMS",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafce8620e3325b82cd7131"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Martial Arts",
+    " Sci-fi",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kinnikuman",
+  "h": 1194609,
+  "i": "4e70e9edc092255ef70041ae",
+  "im": "d9/d9e516d651ad2c89dab725afa45a0f3d760523d2e1979a8435d0a2fe.jpg",
+  "ld": "1587008500",
+  "s": 2,
+  "t": "Kinnikuman",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafceba20e3325b82cd7132"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Horror",
+    " Mature",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kamisama-no-iutoori-ni",
+  "h": 1185814,
+  "i": "51410e2f45b9efaf44c167df",
+  "im": "29/299d6b7a4cbeafcfb8d90e599068e49c0f013c1ac8b65ac1147f8830.jpg",
+  "ld": "1488188174",
+  "s": 2,
+  "t": "Kamisama no Iutoori Ni",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcedb20e3325b82cd7133"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Mystery",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kingdom-hearts-3582-days",
+  "h": 1059498,
+  "i": "4e70ea55c092255ef7006542",
+  "im": "9c/9cac641877c0304e3908dd4830a526ee835bd269c7b6d5794e7601ad.jpg",
+  "ld": "1358421587",
+  "s": 2,
+  "t": "Kingdom Hearts: 358/2 Days",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcee620e3325b82cd7134"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Mystery",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kingdom-hearts-ii",
+  "h": 485573,
+  "i": "4e70ea15c092255ef7004c52",
+  "im": "bd/bdcabfb0f4972afa26094fe41916148c67b3f5ffd0b98c7e0aa8622e.jpg",
+  "ld": "1488192318",
+  "s": 2,
+  "t": "Kingdom Hearts II",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafcefc20e3325b82cd7135"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Mystery",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kingdom-hearts",
+  "h": 285277,
+  "i": "4e70e9a2c092255ef7003151",
+  "im": "cf/cfcca35fe16c17836a8874dc785a7cd516b04ff9659ee07a7b13ce9d.jpg",
+  "ld": "1542924186",
+  "s": 2,
+  "t": "Kingdom Hearts",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd00320e3325b82cd7136"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Drama",
+    " Mature",
+    " Psychological",
+    " Sci-fi",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "battle-angel-alita-last-order",
+  "h": 1140923,
+  "i": "5218aeca45b9ef8b8373170a",
+  "im": "a9/a926fd2d856159853b7de9746ca12cf5d0f1f1e3b1d50a3a703159a0.jpg",
+  "ld": "1394958847",
+  "s": 2,
+  "t": "Battle Angel Alita Last Order",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd03820e3325b82cd7137"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Drama",
+    " Fantasy",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "panlong",
+  "h": 1117867,
+  "i": "553309dd719a164c86bbec47",
+  "im": "80/80e77b26f27978d448b6d698f87dabc2150d5136aff909aaca57308b.jpg",
+  "ld": "1559327386",
+  "s": 2,
+  "t": "Panlong",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd04f20e3325b82cd7138"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Historical",
+    " Martial Arts",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "yongbi",
+  "h": 1048407,
+  "i": "4e70ea8bc092255ef70073bd",
+  "im": "20/202b2789563106871431c703928d3934749895a432af70d093ac73ea.jpg",
+  "ld": "1534838076",
+  "s": 2,
+  "t": "Yongbi",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd0c520e3325b82cd7139"
+  },
+  "c": [
+    "Drama",
+    " Webtoons"
+  ],
+  "status": true,
+  "report": false,
+  "a": "the-monster-duchess-and-contract-princess",
+  "h": 8112,
+  "i": "5dc2b014719a168e24141c89",
+  "im": "41/4138e10360e459c487f7d31f2e473012093508fa0cb9a5dbd3b0f7f7.jpg",
+  "ld": "1588156159",
+  "s": 1,
+  "t": "The monster duchess and contract princess",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd0df20e3325b82cd713a"
+  },
+  "c": [
+    "Webtoons"
+  ],
+  "status": true,
+  "report": false,
+  "a": "doctor-elise",
+  "h": 11908,
+  "i": "5dca8f2a719a1623ba7b0873",
+  "im": "af/af665408b31d58d139f6eef55dff00f58b0ca2e1aea26ae5dbec3d27.jpg",
+  "ld": "1587220340",
+  "s": 1,
+  "t": "Doctor elise",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd0f420e3325b82cd713b"
+  },
+  "c": [
+    "Action",
+    " Adventure",
+    " Comedy",
+    " Romance",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "takkoku",
+  "h": 3406,
+  "i": "5c5cbc43719a161a8f35d48c",
+  "im": "c2/c2b479388bab83104bdb8b90a8b21a3edb65a4fdac2ffc0dc011ad99.jpg",
+  "ld": "1559410873",
+  "s": 2,
+  "t": "Takkoku!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd11920e3325b82cd713c"
+  },
+  "c": [
+    "Drama",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tetsunaki-no-kirinji",
+  "h": 6786,
+  "i": "5c5e0e02719a164064ed82ed",
+  "im": "9a/9a686289236bc3c9bf7deb4c85733948c08b4a44eba6e43c4b84b030.png",
+  "ld": "1549688633",
+  "s": 2,
+  "t": "Tetsunaki no Kirinji",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd14720e3325b82cd713d"
+  },
+  "c": [
+    "Drama",
+    " Gender Bender",
+    " Mystery",
+    " Psychological",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shion-no-ou",
+  "h": 2730,
+  "i": "5c313aaa719a1693c0d62e90",
+  "im": "81/8106d4a8eee7440def73b9cb0783d6a3689c22b86f8cf4930b331820.jpg",
+  "ld": "1546797271",
+  "s": 2,
+  "t": "Shion no Ou",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd16120e3325b82cd713e"
+  },
+  "c": [
+    "Drama",
+    " Josei",
+    " School Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gunjou-ni-siren",
+  "h": 2288,
+  "i": "5b9d8470719a1643bd9b1eda",
+  "im": "18/186ff3b3848f5c71cc2733b176fc848bbbf4e23c90d57c15d6fa6980.png",
+  "ld": "1537096638",
+  "s": 1,
+  "t": "Gunjou ni Siren",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd19420e3325b82cd713f"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Romance",
+    " School Life",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "haru-matsu-bokura",
+  "h": 18044,
+  "i": "5bedfff0719a163457b94d9d",
+  "im": "c0/c0804c1ca75d75d7f4d5d9db5fb36a03f8f79fca9075019552030927.jpg",
+  "ld": "1545256110",
+  "s": 1,
+  "t": "Haru Matsu Bokura",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd1ae20e3325b82cd7140"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Martial Arts",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "blazing-transfer-student",
+  "h": 260,
+  "i": "5be6156c719a16346d61fde3",
+  "im": "c9/c99b334d3bb4060529beef0563d02522f3ffc114e74b33e6362cf725.png",
+  "ld": "1541911854",
+  "s": 2,
+  "t": "Blazing Transfer Student",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd1d220e3325b82cd7141"
+  },
+  "c": [
+    "Drama",
+    " Romance",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "derby-queen",
+  "h": 182,
+  "i": "5beb5b0e719a1659032c32b2",
+  "im": "86/86d2adfa20c16dbbe358149b489419b3ddbe9818642e5f6b24d9577c.png",
+  "ld": "1543219382",
+  "s": 2,
+  "t": "Derby Queen",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd1db20e3325b82cd7142"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Martial Arts",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "king-of-kung-fu",
+  "h": 234,
+  "i": "5c046805719a1666bc4ffa0b",
+  "im": "ec/ecc062fc918b0c0467a0cb3adefd3976e647fe8cd4c1e0c5ce57ba24.jpg",
+  "ld": "1543857830",
+  "s": 2,
+  "t": "King of Kung Fu",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd1fd20e3325b82cd7143"
+  },
+  "c": [
+    "Comedy",
+    " School Life",
+    " Shounen",
+    " Sports",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kurogane-ikezawa-haruto",
+  "h": 11336,
+  "i": "5be8b811719a1646d2d58f34",
+  "im": "41/41df93716a70da37aa3c44792b2f3ff370d31281dbf41aa17a6cd8ed.png",
+  "ld": "1543395501",
+  "s": 2,
+  "t": "Kurogane (IKEZAWA Haruto)",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd20d20e3325b82cd7144"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Harem",
+    " School Life",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "ichiba-kurogane-wa-kasegitai",
+  "h": 3016,
+  "i": "5baff972719a160eaaac9663",
+  "im": "6b/6bdf8a812502bd217b74bffcbc18521eb066da97559dfcd00b9d70ec.png",
+  "ld": "1541891965",
+  "s": 2,
+  "t": "Ichiba Kurogane wa Kasegitai",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd22520e3325b82cd7145"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Historical",
+    " Romance",
+    " Shounen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "peace-maker-kurogane",
+  "h": 4342,
+  "i": "5bdcdb7b719a16975fa956d7",
+  "im": "94/949f0d799b91ef73e457f2948fea1ffb25708e17717ca4bf72fa59a3.jpg",
+  "ld": "1585491743",
+  "s": 1,
+  "t": "Peace Maker Kurogane",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd25c20e3325b82cd7146"
+  },
+  "c": [
+    "Drama",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tetsunaki-no-kirinji",
+  "h": 6786,
+  "i": "5c5e0e02719a164064ed82ed",
+  "im": "9a/9a686289236bc3c9bf7deb4c85733948c08b4a44eba6e43c4b84b030.png",
+  "ld": "1549688633",
+  "s": 2,
+  "t": "Tetsunaki no Kirinji",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd26b20e3325b82cd7147"
+  },
+  "c": [
+    "Drama",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tetsunaki-no-kirinji---kabukichou-seiatsu-hen",
+  "h": 5512,
+  "i": "5c2aa3d5719a16194e689766",
+  "im": "10/1050a2a5a6d6fed49d5d3a682aedfeafb199224b3ac6a413e4e15600.jpg",
+  "ld": "1569473487",
+  "s": 2,
+  "t": "Tetsunaki no Kirinji - Kabukichou Seiatsu Hen",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd29a20e3325b82cd7148"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " Martial Arts",
+    " School Life",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "asahinagu",
+  "h": 2678,
+  "i": "5bf88acc719a160ee8f34805",
+  "im": "79/79afc212f3c76ce4ec349134bf9ef9baf927ec6b24e24d977c7f5652.jpg",
+  "ld": "1586259505",
+  "s": 1,
+  "t": "Asahinagu",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd2bd20e3325b82cd7149"
+  },
+  "c": [
+    "Drama",
+    " Romance",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "fuyu-hanabi",
+  "h": 182,
+  "i": "5bef505a719a1646bd0b81e8",
+  "im": "9c/9c186e606a49d3d105ec2dd4515be66e40d828f544c056366bc32e11.png",
+  "ld": "1543280032",
+  "s": 2,
+  "t": "Fuyu Hanabi",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd2d620e3325b82cd714a"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Drama",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "ganbare-genki",
+  "h": 884,
+  "i": "5bef50d9719a1646bd0b8387",
+  "im": "92/92c0558eb342ded7242ef2195c02f5eea2e5feed37e4e5b6e83590fb.png",
+  "ld": "1543230935",
+  "s": 2,
+  "t": "Ganbare Genki",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd2e820e3325b82cd714b"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kuroko-no-basuke---extra-game",
+  "h": 26312,
+  "i": "5c085cf6719a1607b59af31c",
+  "im": "f0/f0cf6e5dec8178ad06f53079102722533261e68f31500edacf4d1bcf.png",
+  "ld": "1544097158",
+  "s": 2,
+  "t": "Kuroko no Basuke - Extra Game",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd2f020e3325b82cd714c"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " School Life",
+    " Shounen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kuroko-no-basuke",
+  "h": 14785770,
+  "i": "4e70ea22c092255ef7004f01",
+  "im": "bd/bd45adb37951f7267fba847c475d9135559766cdd587f6d7dc1b067e.jpg",
+  "ld": "1409568109",
+  "s": 2,
+  "t": "Kuroko no Basuke",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd30920e3325b82cd714d"
+  },
+  "c": [
+    "Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "light-wing",
+  "h": 3068,
+  "i": "5c085daf719a1607b59af666",
+  "im": "bb/bb49f62693e5b3954b2d10a01a31285ae3c7db54fa4fe00e1e8fd701.jpg",
+  "ld": "1561848142",
+  "s": 2,
+  "t": "Light Wing",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd33120e3325b82cd714e"
+  },
+  "c": [
+    "Mystery",
+    " Psychological",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tobaku-haouden-rei-gyankihen",
+  "h": 3484,
+  "i": "5c7082cc719a164545ee652a",
+  "im": "d6/d6d4f279faef0714c1c659ae24a725f46a72f4cb2478df05dd0825be.png",
+  "ld": "1550903223",
+  "s": 2,
+  "t": "Tobaku Haouden Rei: Gyankihen",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd34f20e3325b82cd714f"
+  },
+  "c": [
+    "Romance",
+    " School Life",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "attack",
+  "h": 1066,
+  "i": "5bb29ce7719a1636e3e75f99",
+  "im": "59/59e709435fa8265c00b5c4639fd6e1d2fc0b146d7bdaff2d391f9634.jpg",
+  "ld": "1538470947",
+  "s": 2,
+  "t": "Attack!!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd36020e3325b82cd7150"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "chaos-attack",
+  "h": 624,
+  "i": "5bdb8911719a168e7cbf426e",
+  "im": "55/5551efbb0554dacacfe9188d3eb1d20116710fb01632d219eb46679f.jpg",
+  "ld": "1543210012",
+  "s": 2,
+  "t": "Chaos Attack",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd37020e3325b82cd7151"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Mecha",
+    " School Life",
+    " Sci-fi",
+    " Shoujo",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "code-geass-suzaku-of-the-counterattack",
+  "h": 962,
+  "i": "5becae4e719a1683f7f0a818",
+  "im": "38/3881ed3d0d60924b4235d6bb83b38f3001a15e2b732236b26fa83d76.jpg",
+  "ld": "1542332378",
+  "s": 2,
+  "t": "Code Geass: Suzaku of the Counterattack",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd37f20e3325b82cd7152"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Fantasy",
+    " Horror",
+    " Mature",
+    " Mystery",
+    " Shounen",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "attack-on-titan---before-the-fall",
+  "h": 844932,
+  "i": "5224e32c45b9effc5b1efec9",
+  "im": "e8/e833aafca97d673e2ec924794b2c05e3855c56379f92411504c9fef7.jpg",
+  "ld": "1534976084",
+  "s": 1,
+  "t": "Attack On Titan - Before The Fall",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd39f20e3325b82cd7153"
+  },
+  "c": [
+    "Comedy",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "jansou-no-saeko-san",
+  "h": 0,
+  "i": "5bfdd098719a162b3c19661f",
+  "im": "c9/c9baf3110112af0667a3813808b7a30412ba43324970f8c1433646dc.jpg",
+  "ld": "1543388614",
+  "s": 1,
+  "t": "Jansou no Saeko-san",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd3b320e3325b82cd7154"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " Martial Arts",
+    " Shounen",
+    " Sports",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "bb-project",
+  "h": 910,
+  "i": "5be4c3f1719a162743ebb8dd",
+  "im": "b5/b5fb9537f5938685c8011e186750b338324697454588821059890880.png",
+  "ld": "1543197583",
+  "s": 2,
+  "t": "BB Project",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd3cb20e3325b82cd7155"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Psychological",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "death-pie",
+  "h": 494,
+  "i": "5bea09e4719a167379996c94",
+  "im": "53/53d924ba544bcf7db6f2c6592720e976cc07528d020aac9783934015.png",
+  "ld": "1559192025",
+  "s": 2,
+  "t": "Death Pie",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd3ea20e3325b82cd7156"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Harem",
+    " Romance",
+    " School Life",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "sakura-ryou-march",
+  "h": 208,
+  "i": "5c2e9845719a1614e08bac63",
+  "im": "f6/f60478891d00ec6165df6fd5e97c8593959af0959226d005ca948628.png",
+  "ld": "1546672059",
+  "s": 2,
+  "t": "Sakura Ryou March",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd40220e3325b82cd7157"
+  },
+  "c": [
+    "Drama",
+    " Shounen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "zenikko",
+  "h": 5122,
+  "i": "5b9d8604719a1643bd9b22ac",
+  "im": "b0/b0969cf61e1e438228c2e7f1334f0e961629a58ac8e0c60c39e09975.jpg",
+  "ld": "1566967404",
+  "s": 2,
+  "t": "Zenikko",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd41820e3325b82cd7158"
+  },
+  "c": [
+    "Comedy",
+    " Ecchi",
+    " Romance",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "inu-neko-jump",
+  "h": 858,
+  "i": "5bfc7eaa719a16716470da21",
+  "im": "80/8037b205d8bc7a2969a3ec5392680a2555d5828c6e04e7efa1739476.jpg",
+  "ld": "1543365034",
+  "s": 2,
+  "t": "Inu Neko Jump",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd42e20e3325b82cd7159"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " School Life",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "hanebado",
+  "h": 33800,
+  "i": "5bbe7b0f719a162b399c8807",
+  "im": "68/683f0172c2043b894d1066c25717b7a64c4283fb398ff1aa9754d154.png",
+  "ld": "1576493555",
+  "s": 1,
+  "t": "Hanebado!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd44520e3325b82cd715a"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Romance",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "10-dance",
+  "h": 12506,
+  "i": "5bc90625719a162d70161a39",
+  "im": "de/de9238c35f2e67fc70f66831dc62cfa7ef986cf07a439f3f8d9dfcea.png",
+  "ld": "1543269477",
+  "s": 1,
+  "t": "10 Dance",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd45820e3325b82cd715b"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Ecchi",
+    " Romance",
+    " School Life",
+    " Shounen",
+    " Sports",
+    " Supernatural"
+  ],
+  "status": true,
+  "report": false,
+  "a": "fureru-to-kikoeru",
+  "h": 14716,
+  "i": "5bb7e2b7719a1699c2a72f9f",
+  "im": "3b/3b059d58e77ccd0d11c3bdf1f215950d154ebb24ad887554f8aec87c.png",
+  "ld": "1544631891",
+  "s": 2,
+  "t": "Fureru to Kikoeru",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd47c20e3325b82cd715c"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gunjou-kirihara-idumi",
+  "h": 2236,
+  "i": "5bf495bd719a166760af5e3a",
+  "im": "5f/5fd4f1539474a02501bc7182e660f6e58ca0adefe0488b29f2687d18.jpg",
+  "ld": "1542840373",
+  "s": 2,
+  "t": "Gunjou (KIRIHARA Idumi)",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd48820e3325b82cd715d"
+  },
+  "c": [
+    "Action",
+    " Drama",
+    " Historical",
+    " Seinen"
+  ],
+  "status": true,
+  "report": false,
+  "a": "gunjou-senki",
+  "h": 7046,
+  "i": "5bbe7ad1719a162b399c8785",
+  "im": "28/287c31329314d0e21caba685bc9c1431e865893bc211d1f16809552d.jpg",
+  "ld": "1554285374",
+  "s": 1,
+  "t": "Gunjou Senki",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd4a820e3325b82cd715e"
+  },
+  "c": [
+    "Comedy",
+    " Ecchi",
+    " Gender Bender",
+    " Romance",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "idol-a",
+  "h": 1456,
+  "i": "5bfb2d48719a162c59544c47",
+  "im": "c8/c8a8b076ba3a6e428d2a9d7fad723f7b3d33edd331924f08faa64c2e.png",
+  "ld": "1559234203",
+  "s": 2,
+  "t": "Idol A",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd61f20e3325b82cd715f"
+  },
+  "c": [
+    "Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "natsu-no-owari",
+  "h": 26,
+  "i": "5c255d78719a164ab0dcd883",
+  "im": "14/14a3bfc6dd291661e9b524f07607f497fd877dd0ad3047fedd693ac2.jpg",
+  "ld": "1546170127",
+  "s": 2,
+  "t": "Natsu no Owari",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd63820e3325b82cd7160"
+  },
+  "c": [
+    "Drama",
+    " Romance",
+    " School Life",
+    " Slice of Life"
+  ],
+  "status": true,
+  "report": false,
+  "a": "kimi-wa-natsu-no-naka",
+  "h": 5746,
+  "i": "5c240bc9719a1640e73b219e",
+  "im": "86/860a13e1114dc70e25adf48f9ba22e0ef7bd30b1797f48b3e1a8e994.jpg",
+  "ld": "1546166933",
+  "s": 2,
+  "t": "Kimi wa Natsu no Naka",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd66020e3325b82cd7161"
+  },
+  "c": [
+    "Comedy",
+    " Romance",
+    " School Life",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tsubasa-to-hotaru",
+  "h": 24154,
+  "i": "5bedfea6719a163457b947a3",
+  "im": "55/55a9fec343e36e60a96afc3c286fbbaf5b39c9215ed3f4e6ead2f3cb.jpg",
+  "ld": "1548716390",
+  "s": 2,
+  "t": "Tsubasa to Hotaru",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd67620e3325b82cd7162"
+  },
+  "c": [
+    "Comedy",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "dois-sol",
+  "h": 130,
+  "i": "5beb5baf719a1659032c3582",
+  "im": "cc/cc537e382f4ba75045d46bfc9661f868cb7f8a444988c30081055c8e.jpg",
+  "ld": "1543220905",
+  "s": 2,
+  "t": "Dois Sol",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd69020e3325b82cd7163"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " Martial Arts",
+    " Romance",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "yawara",
+  "h": 5486,
+  "i": "5bc11fdd719a1663cab0bca6",
+  "im": "aa/aa2c274a54c2bbbfc7dff1c60df220a46ae49d031c04e3fdc8779638.jpg",
+  "ld": "1539511790",
+  "s": 2,
+  "t": "Yawara!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd6e720e3325b82cd7164"
+  },
+  "c": [
+    "Martial Arts",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "bamboo-blade-c",
+  "h": 104,
+  "i": "5bd643c0719a169c21d43b48",
+  "im": "48/4802c3228d308fe8375e5f7f481907c5ba88efeddf86f1fb9d3609a2.jpg",
+  "ld": "1543199333",
+  "s": 2,
+  "t": "Bamboo Blade C",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd74a20e3325b82cd7165"
+  },
+  "c": [
+    "Comedy",
+    " Drama",
+    " School Life",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "supinamarada",
+  "h": 3614,
+  "i": "5b9c330d719a1641c9700d1a",
+  "im": "61/611718ec001790b5546080de81e31150ea88b715ad2b09194500cf47.jpg",
+  "ld": "1545665735",
+  "s": 2,
+  "t": "Supinamarada!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd76920e3325b82cd7166"
+  },
+  "c": [
+    "Drama",
+    " School Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tok-tok",
+  "h": 754,
+  "i": "5c09adc3719a1642e4e587b0",
+  "im": "da/da300f058c5ad83e5fdf4ebc78c784630375f4254416cf30c0bec7b8.jpg",
+  "ld": "1544356730",
+  "s": 2,
+  "t": "Tok, Tok",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd78c20e3325b82cd7167"
+  },
+  "c": [
+    "Drama",
+    " Romance",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "golden-waltz",
+  "h": 1404,
+  "i": "5c28035e719a16352fa6fb2e",
+  "im": "4f/4f81b50c3a207924a00407d59b9d05cf543befbe93a221302c1bdd45.jpg",
+  "ld": "1567521388",
+  "s": 2,
+  "t": "Golden Waltz",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd7b020e3325b82cd7168"
+  },
+  "c": [
+    "Drama",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "smoky-b.b",
+  "h": 1118,
+  "i": "5bd4e38d719a168fa1e48044",
+  "im": "6c/6ccce62b9738eebe581f2f3e41a329d0ab0fd8e71b9eebe0da712949.jpg",
+  "ld": "1543341439",
+  "s": 2,
+  "t": "Smoky B.B.",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd7de20e3325b82cd7169"
+  },
+  "c": [
+    "Martial Arts",
+    " School Life",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "bushidou-sixteen",
+  "h": 936,
+  "i": "5bda37f2719a164204a391fb",
+  "im": "9a/9a39a557443173c4ce887d151400510735f66a916bb303518cafb96b.png",
+  "ld": "1541051812",
+  "s": 2,
+  "t": "Bushidou Sixteen",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd80020e3325b82cd716a"
+  },
+  "c": [
+    "Drama",
+    " Romance",
+    " School Life",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "sorairo-ageha",
+  "h": 4186,
+  "i": "5c26af9f719a1653396e4b2e",
+  "im": "08/080f101419fb76c586a233db98513b0af1f0b55a8461cb00d4fa7950.png",
+  "ld": "1546179730",
+  "s": 2,
+  "t": "Sorairo Ageha",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd86920e3325b82cd716b"
+  },
+  "c": [
+    "Action",
+    " Comedy",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "baggataway",
+  "h": 3354,
+  "i": "5bd6438a719a169c21d43aee",
+  "im": "67/67a6013fe42040b8b152a5705afdbe50cefb26bfbc2be7ceba676249.jpg",
+  "ld": "1540787872",
+  "s": 2,
+  "t": "BaggataWay",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd88020e3325b82cd716c"
+  },
+  "c": [
+    "Romance",
+    " School Life",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "loose-leaf",
+  "h": 1092,
+  "i": "5c09ae00719a1642e4e58882",
+  "im": "ad/ad07e8d232b6e999a1ac4ebeddd1834e4feafdda3cb83d4b9aad443f.jpg",
+  "ld": "1544207864",
+  "s": 2,
+  "t": "Loose Leaf",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd8bc20e3325b82cd716d"
+  },
+  "c": [
+    "Romance",
+    " School Life",
+    " Shoujo",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "loose-leaf",
+  "h": 1092,
+  "i": "5c09ae00719a1642e4e58882",
+  "im": "ad/ad07e8d232b6e999a1ac4ebeddd1834e4feafdda3cb83d4b9aad443f.jpg",
+  "ld": "1544207864",
+  "s": 2,
+  "t": "Loose Leaf",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd8da20e3325b82cd716e"
+  },
+  "c": [
+    "Comedy",
+    " Romance",
+    " School Life",
+    " Shounen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "over-fence",
+  "h": 182,
+  "i": "5c21696c719a1680c81fd9a6",
+  "im": "e4/e499e2f7a50c695e31654d2a794d45a2ee69663d3c62e914ea22b375.jpg",
+  "ld": "1545742366",
+  "s": 1,
+  "t": "Over Fence",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd90020e3325b82cd716f"
+  },
+  "c": [
+    "Comedy",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "atsuize-tenma",
+  "h": 182,
+  "i": "5bd64335719a169c21d43a79",
+  "im": "a8/a81d83ac0586a9c0a9a78928a916c7cf5478a65047ef2e6306960c9a.jpg",
+  "ld": "1543196568",
+  "s": 2,
+  "t": "Atsuize Tenma!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd91120e3325b82cd7170"
+  },
+  "c": [
+    "Comedy",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "atsuize-pen-chan",
+  "h": 468,
+  "i": "5bd64330719a169c21d43a75",
+  "im": "fc/fc289622f36ee822a943009384e4c972737cca6f87a9ed5a1e4fa827.jpg",
+  "ld": "1545878277",
+  "s": 2,
+  "t": "Atsuize Pen-chan",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd93620e3325b82cd7171"
+  },
+  "c": [
+    "Comedy",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "atsuize-pen-chan",
+  "h": 468,
+  "i": "5bd64330719a169c21d43a75",
+  "im": "fc/fc289622f36ee822a943009384e4c972737cca6f87a9ed5a1e4fa827.jpg",
+  "ld": "1545878277",
+  "s": 2,
+  "t": "Atsuize Pen-chan",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd97220e3325b82cd7172"
+  },
+  "c": [
+    "Comedy",
+    " Seinen",
+    " Slice of Life",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "noririn",
+  "h": 312,
+  "i": "5c1ec5c9719a160da65fc249",
+  "im": "ac/acbff9351b2bd7c887d086d257feeac8d0d6b9036816933e8571ad48.jpg",
+  "ld": "1545658848",
+  "s": 2,
+  "t": "Noririn",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd9b720e3325b82cd7173"
+  },
+  "c": [
+    "School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "shudan",
+  "h": 1118,
+  "i": "5c1c2388719a167af40f3293",
+  "im": "fb/fb1eda8174b639f61a5fad6572400cbed389ee2f745a2023d12c9309.png",
+  "ld": "1545740077",
+  "s": 2,
+  "t": "Shudan!",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd9c920e3325b82cd7174"
+  },
+  "c": [
+    "Drama",
+    " School Life",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "go-ahead",
+  "h": 3432,
+  "i": "5bf1f317719a168aa30a86f2",
+  "im": "cd/cde3d11fbcf6e331c3faa003faf77d58351df456da898c6052a5f439.png",
+  "ld": "1542744752",
+  "s": 2,
+  "t": "Go Ahead",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd9e020e3325b82cd7175"
+  },
+  "c": [
+    "Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "captain-tsubasa---rising-sun",
+  "h": 58838,
+  "i": "5bda382e719a164204a39244",
+  "im": "44/448f25ffd842d4638a160b3a0f828708bbb8ce7b4db203735a8fa5c5.jpg",
+  "ld": "1574434293",
+  "s": 1,
+  "t": "Captain Tsubasa - Rising Sun",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd9ea20e3325b82cd7176"
+  },
+  "c": [
+    "Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "captain-tsubasa-kaigai---gekitouhen-in-calcio",
+  "h": 5174,
+  "i": "5bda3835719a164204a3924c",
+  "im": "59/59e26646759a6526f33221a6ce32aebdb9dfbbd7f186d9b298bef033.jpg",
+  "ld": "1541054881",
+  "s": 2,
+  "t": "Captain Tsubasa Kaigai - Gekitouhen in Calcio",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafd9f620e3325b82cd7177"
+  },
+  "c": [
+    "Drama",
+    " Seinen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "captain-tsubasa---golden-23",
+  "h": 441985,
+  "i": "4e70e980c092255ef7002aab",
+  "im": "ca/ca4a2003a89e39699f2fdb834e24ea41745419c0bf67dbeee522a915.jpg",
+  "ld": "1541919767",
+  "s": 2,
+  "t": "Captain Tsubasa - Golden-23",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafda0b20e3325b82cd7178"
+  },
+  "c": [
+    "Historical",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "mirai-no-football",
+  "h": 910,
+  "i": "5c197fcc719a167fd12c6f47",
+  "im": "90/90908f9f9826351b2e97cb830d64efbc13ff5ec24a013d8c4c1073e3.jpg",
+  "ld": "1545369768",
+  "s": 2,
+  "t": "Mirai no Football",
+  "__v": 0,
+  "l": 0
+},{
+  "_id": {
+    "$oid": "5eafda1f20e3325b82cd7179"
+  },
+  "c": [
+    "Comedy",
+    " Shounen",
+    " Sports"
+  ],
+  "status": true,
+  "report": false,
+  "a": "tokyo-wonder-boys",
+  "h": 2054,
+  "i": "5ba17a3a719a160c35579b39",
+  "im": "66/660daee6f4d35970cb4494767cf55c8b336cc3a8a3022cc6688c93a7.jpg",
+  "ld": "1537365148",
+  "s": 2,
+  "t": "Tokyo Wonder Boys",
+  "__v": 0,
+  "l": 0
+}]
