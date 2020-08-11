@@ -1,0 +1,8 @@
+{
+  "VpnServer": [
+    {
+      "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/singapo.ovpn",
+      "quocgia": "singapo"
+    }
+  ]
+}
