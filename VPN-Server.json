@@ -3,6 +3,12 @@
     {
       "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/singapo.ovpn",
       "quocgia": "singapo"
+    },{
+      "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/Poland-vpnbook-pl226-tcp80.ovpn",
+      "quocgia": "Poland"
+    },{
+      "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/Poland-vpnbook-pl226-tcp443.ovpn",
+      "quocgia": "Poland"
     }
   ]
 }
