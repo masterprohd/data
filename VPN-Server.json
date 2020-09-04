@@ -2,13 +2,16 @@
   "VpnServer": [
     {
       "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/singapo.ovpn",
-      "quocgia": "singapo"
+      "quocgia": "singapo",
+      "ipString": "128.199.182.16"
     },{
       "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/Poland-vpnbook-pl226-tcp80.ovpn",
-      "quocgia": "Poland"
+      "quocgia": "Poland",
+      "ipString": "128.199.182.16"
     },{
       "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/Poland-vpnbook-pl226-tcp443.ovpn",
-      "quocgia": "Poland"
+      "quocgia": "Poland",
+      "ipString": "128.199.182.16"
     }
   ]
 }
