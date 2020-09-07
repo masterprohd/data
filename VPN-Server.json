@@ -1,7 +1,7 @@
 {
   "VpnServer": [
     {
-      "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/singapo.ovpn",
+      "ovpn": "https://raw.githubusercontent.com/masterprohd/data/master/client.ovpn",
       "quocgia": "singapo",
       "ipString": "128.199.182.16"
     },{
